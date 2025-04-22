@@ -94,24 +94,26 @@ server.port=2330[Optional] <br>
 #### Login Page
 
 
-![Screenshot 2025-04-21 212853](https://github.com/user-attachments/assets/a713c203-c717-4472-a5b4-3d379931450a)
+![Screenshot 2025-04-21 212853](https://github.com/user-attachments/assets/3c28e4a3-31c3-4eb8-b82e-7ca577186b67)
 
 
 
 
 #### AdminPanel
 
-![adminpanel](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/b89aa5ee-3f7f-4145-b063-048729e7fbe9)
+![Screenshot 2025-04-21 213102](https://github.com/user-attachments/assets/6180076f-f0db-4424-a1a4-eec589acff86)
+
 
 
 #### UserPanel 
+![Screenshot 2025-04-21 212823](https://github.com/user-attachments/assets/b17a61ac-58b3-4b15-a6ab-895e4e3b8787)
 
-![userpanel](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/e0f81692-c049-4a2f-a78d-30d3906f4429)
 
 
 ### Exception page
 
-![exceptionPage](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/4349a429-61ff-4ecd-a463-2900874e1ea5)
+![Screenshot 2025-04-21 213252](https://github.com/user-attachments/assets/086bdb35-2641-4116-9fd9-39cec0d50293)
+
 
 
 
