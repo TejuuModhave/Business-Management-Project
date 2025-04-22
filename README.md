@@ -3,7 +3,7 @@
 ![Screenshot 2025-04-21 212251](https://github.com/user-attachments/assets/a1129987-b9ca-4302-b5b9-586eb9c77100)
 # Business Management Web Application : <br>
 
-![home (2)](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/e8db8f17-72d6-42a0-b264-def0bf883bbf)
+
 
 
 
