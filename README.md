@@ -76,15 +76,6 @@ server.port=2330[Optional] <br>
 
 
 
-
-## WorkFlow :
-
-![workflow](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/aea72470-49c8-41a4-8974-48737638ae19)
-
-
-
-
-
 ## Preview :
 
 
