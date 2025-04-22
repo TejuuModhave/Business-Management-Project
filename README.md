@@ -81,18 +81,20 @@ server.port=2330[Optional] <br>
 
 #### Products 
 
-![products (2)](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/0496f63a-f30c-4108-91a7-966bd37b2b54)
+![Screenshot 2025-04-21 212618](https://github.com/user-attachments/assets/61dd833a-2df4-475c-a410-68846534c3b0)
 
 
 #### Location 
 
-![locateus](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/30e40d74-d2f0-48cb-91b3-ea515f12c498)
+
+![Screenshot 2025-04-21 212802](https://github.com/user-attachments/assets/67c1b6b4-45d6-4b24-a9a2-39b9e61f5741)
 
 
 
 #### Login Page
 
-![logins](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/9c1efb48-5b23-4a43-8c96-81d55a7b1180)
+
+![Screenshot 2025-04-21 212853](https://github.com/user-attachments/assets/a713c203-c717-4472-a5b4-3d379931450a)
 
 
 
