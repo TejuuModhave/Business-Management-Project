@@ -31,28 +31,29 @@
 - Spring Boot: Backend framework for building Java-based web applications.
 - Thymeleaf: Server-side Java template engine for dynamic HTML generation.
 - MySQL: Relational database management system for data storage.
-- IDE/Tool : Spring Tool Suite 4 (Eclipse)
+- IDE/Tool : IntelliJ IDEA
 
 
 
 
 ## Installation :
 
-1. Clone the repository : $ git clone https://github.com/SuhasKamate/Business_Management_Project.git <br>
+1. Clone the repository : $ git clonehttps://github.com/TejuuModhave/Business-Management-Project.git<br>
 
-2. Import the project inside STS/Eclipse : <br>
-     - Open STS/Eclipse > file > import > maven > existing project > browse > finish . <br>
+2. Import the project inside IntelliJ : <br>
+     - Open IntelliJ > file > import > maven > existing project > browse > finish . <br>
      
 3. Make sure you are in the Business_Management_Project directory. <br>
 
-![packageExplorer](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/3ea1eb7f-8e49-4b76-96e4-798b6b8e8715)
+![Screenshot 2025-04-21 212505](https://github.com/user-attachments/assets/07601f7b-9afe-415a-853d-a8515800dc78)
+
 
 
 4.Configure the database connection is application.properties (check the Database section for more information). <br>
 
 5.Run the project (by running main method is BusinessProjectApplication.java) OR right clink on the project > Run As > Spring Boot App. <br>
 
-6.Open http://localhost:2330/home in any browser. <br>
+6.Open http://localhost:8080/home in any browser. <br>
 
 7.Now your tables will be created in the databse. <br>
    - You have to add one admin data manually to login as admin, So add one admin data. <br>
